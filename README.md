@@ -1,2 +1,2 @@
-# gamma-utils
+# gamma-tools
 Extensions for scikit-learn regarding gamma divergence
